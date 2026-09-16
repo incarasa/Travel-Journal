@@ -60,7 +60,7 @@ During this project I practiced:
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/incarasa/Travel-Journal
 ```
 
 Navigate into the project:
