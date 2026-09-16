@@ -4,14 +4,14 @@ A simple travel journal built with React that displays information about differe
 
 This project was created to practice reusable React components, props, and dynamic rendering.
 
-🔗 **[View Live Demo](YOUR_DEPLOYED_URL_HERE)**
+🔗 **[View Live Demo](https://traveljou.netlify.app/)**
 
 ---
 
 ## 📸 Preview
 
 <p align="center">
-  <img src="./preview.png" alt="Travel Journal preview" width="700">
+  <img src="./travel-journal.png" alt="Travel Journal preview" width="700">
 </p>
 
 ---
